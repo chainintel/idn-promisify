@@ -1,6 +1,6 @@
 {
   "name": "@idn/util-promisify",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -21,7 +21,8 @@
   "url": "https://github.com/chainintel/idn-util-promisify/issues",
   "email": "support@chainintel.com",
   "devDependencies": {
-    "@types/node": "^10.12.6"
+    "@types/node": "^10.12.6",
+    "mocha": "^5.2.0"
   },
   "dependencies": {
     "promise-callbacks": "^3.2.0",
